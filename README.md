@@ -34,6 +34,9 @@ To get started with the Automated Curtain System, follow these steps:
 
 ![img4](https://github.com/nadimhafsi/Smart_curtain_flutter/assets/135847516/e4e3f407-7eda-4dc2-8944-3908a9f6ce0d)
 
+7. [Embedded application on Wokwi](https://wokwi.com/projects/389386192502545409)
+![embedded](https://github.com/nadimhafsi/Smart_curtain_flutter/assets/135847516/2ebd8ded-8548-4112-89d1-9159920d80be)
+
 For more detailed instructions on setting up and running the Automated Curtain System, refer to the [online documentation](https://github.com/nadimhafsi/Smart_curtain_flutter/blob/main/TP-Domotique_-Automated-Curtain-System.pdf).
 
 
