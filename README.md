@@ -27,6 +27,7 @@ To get started with the Automated Curtain System, follow these steps:
 2. Install Flutter by following the [Flutter installation guide](https://flutter.dev/docs/get-started/install).
 3. Navigate to the project directory in your terminal.
 4. Run `flutter pub get` to install the dependencies.
+![2](https://github.com/nadimhafsi/Smart_curtain_flutter/assets/135847516/70a3dedb-cf0b-45b8-8e53-96253b35de50)
 5. Connect your device or start a simulator.
 6. Run `flutter run` to launch the app on your device or simulator.
 
