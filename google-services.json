@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "294306514627",
+    "project_id": "push-notification---test-dc570",
+    "storage_bucket": "push-notification---test-dc570.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294306514627:android:7e68e250d3c25538144476",
+        "android_client_info": {
+          "package_name": "com.PushNotification.Testing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294306514627-nr8o9s60ejkjsc8mt8jkqjrdkrachq4i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB29Eom7SV7YCe6qenPzqe8jobtmghO47A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "294306514627-nr8o9s60ejkjsc8mt8jkqjrdkrachq4i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
