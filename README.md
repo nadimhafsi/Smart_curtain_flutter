@@ -30,7 +30,7 @@ To get started with the Automated Curtain System, follow these steps:
 ![2](https://github.com/nadimhafsi/Smart_curtain_flutter/assets/135847516/70a3dedb-cf0b-45b8-8e53-96253b35de50)
 5. Connect your device or start a simulator.    
 <img width="1028" alt="5" src="https://github.com/nadimhafsi/Smart_curtain_flutter/assets/135847516/2b76cea2-8a19-4e2d-b869-dd44fe7700b7">
-6. Run `flutter run` to launch the app on your device or simulator.    
+6. Run flutter run` to launch the app on your device or simulator.    
 
 ![img4](https://github.com/nadimhafsi/Smart_curtain_flutter/assets/135847516/e4e3f407-7eda-4dc2-8944-3908a9f6ce0d)
     
