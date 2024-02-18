@@ -22,22 +22,23 @@ system and the mobile application.
 
 To get started with the Automated Curtain System, follow these steps:
 
-1. Clone this repository to your local machine.
+1. Clone this repository to your local machine.   
 ![1](https://github.com/nadimhafsi/Smart_curtain_flutter/assets/135847516/94d137dd-a8eb-464a-9bfb-496a8f331076)
 2. Install Flutter by following the [Flutter installation guide](https://flutter.dev/docs/get-started/install).
-3. Navigate to the project directory in your terminal.
-4. Run `flutter pub get` to install the dependencies.
+3. Navigate to the project directory in your terminal.   
+4. Run `flutter pub get` to install the dependencies.    
 ![2](https://github.com/nadimhafsi/Smart_curtain_flutter/assets/135847516/70a3dedb-cf0b-45b8-8e53-96253b35de50)
-5. Connect your device or start a simulator.
+5. Connect your device or start a simulator.    
 <img width="1028" alt="5" src="https://github.com/nadimhafsi/Smart_curtain_flutter/assets/135847516/2b76cea2-8a19-4e2d-b869-dd44fe7700b7">
-6. Run `flutter run` to launch the app on your device or simulator.
+6. Run `flutter run` to launch the app on your device or simulator.    
 
 ![img4](https://github.com/nadimhafsi/Smart_curtain_flutter/assets/135847516/e4e3f407-7eda-4dc2-8944-3908a9f6ce0d)
-
-7. [Embedded application on Wokwi](https://wokwi.com/projects/389386192502545409)    
+    
+7. [Embedded application on Wokwi](https://wokwi.com/projects/389386192502545409)      
 ![embedded](https://github.com/nadimhafsi/Smart_curtain_flutter/assets/135847516/2ebd8ded-8548-4112-89d1-9159920d80be)
-
-For more detailed instructions on setting up and running the Automated Curtain System, refer to the [online documentation](https://github.com/nadimhafsi/Smart_curtain_flutter/blob/main/TP-Domotique_-Automated-Curtain-System.pdf).
+      
+For more detailed instructions on setting up and running the Automated Curtain System, refer to the [online documentation] 
+  (https://github.com/nadimhafsi/Smart_curtain_flutter/blob/main/TP-Domotique_-Automated-Curtain-System.pdf).
 
 
 ## Support
