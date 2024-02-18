@@ -23,6 +23,7 @@ system and the mobile application.
 To get started with the Automated Curtain System, follow these steps:
 
 1. Clone this repository to your local machine.
+![Texte alternatif](C:\Users\NADIM\Desktop\1.png)
 2. Install Flutter by following the [Flutter installation guide](https://flutter.dev/docs/get-started/install).
 3. Navigate to the project directory in your terminal.
 4. Run `flutter pub get` to install the dependencies.
