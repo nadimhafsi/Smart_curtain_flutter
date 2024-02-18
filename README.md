@@ -1,4 +1,4 @@
-#Automated Curtain System    
+# Automated Curtain System    
       
 The Automated Curtain System project aims to create a system capable of controlling the opening and closing of curtains automatically based on various conditions such as ambient light or manual commands. To achieve this, the system utilizes light sensors (LDR), a motion sensor (PIR), and a servo motor to actuate the curtains. Communication between the system and the user is facilitated through the MQTT protocol, enabling remote control and scheduling of actions.     
      
@@ -31,7 +31,8 @@ To get started with the Automated Curtain System, follow these steps:
 5. Connect your device or start a simulator.
 <img width="1028" alt="5" src="https://github.com/nadimhafsi/Smart_curtain_flutter/assets/135847516/2b76cea2-8a19-4e2d-b869-dd44fe7700b7">
 6. Run `flutter run` to launch the app on your device or simulator.
-![2](https://github.com/nadimhafsi/Smart_curtain_flutter/assets/135847516/70a3dedb-cf0b-45b8-8e53-96253b35de50)
+
+![img4](https://github.com/nadimhafsi/Smart_curtain_flutter/assets/135847516/e4e3f407-7eda-4dc2-8944-3908a9f6ce0d)
 
 For more detailed instructions on setting up and running the Automated Curtain System, refer to the [online documentation](https://github.com/nadimhafsi/Smart_curtain_flutter/blob/main/TP-Domotique_-Automated-Curtain-System.pdf).
 
