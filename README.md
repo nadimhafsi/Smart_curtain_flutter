@@ -52,7 +52,7 @@ The Embedded Application section provides a link to explore the Automated Curtai
 
 
 ## Demo
-In the Realisation section, you can find the practical implementation of the Automated Curtain System. Follow the link below to access the project realization stored on Google Drive:
+In the Demo section, you can find the practical implementation of the Automated Curtain System. Follow the link below to access the project realization stored on Google Drive:
 
 [Automated Curtain System - Realisation](https://drive.google.com/file/d/19VnZX2i5d2pTq8h2My7S7OBWzhnuo4O6/view)
 
