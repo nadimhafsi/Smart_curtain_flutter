@@ -46,9 +46,7 @@ For more detailed instructions on setting up and running the Automated Curtain S
   
 
 ## Embedded application    
-The Embedded Application section provides a link to explore the Automated Curtain System in action on Wokwi, allowing users to interact with a simulated version of the system. For a hands-on experience, click here.
-
- [Embedded application on Wokwi](https://wokwi.com/projects/389386192502545409)      
+The Embedded Application section provides a link to explore the Automated Curtain System in action on Wokwi, allowing users to interact with a simulated version of the system. For a hands-on experience, click here [Embedded application on Wokwi](https://wokwi.com/projects/389386192502545409)      
 ![embedded](https://github.com/nadimhafsi/Smart_curtain_flutter/assets/135847516/2ebd8ded-8548-4112-89d1-9159920d80be)
       
 
